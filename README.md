@@ -1,9 +1,8 @@
 # TODO-CLI-NodeJs
 App todo CLI interactivo
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ScreenShot
+![ScreenShot Example](https://i.ibb.co/vz3xp6H/preview-cli-console-todo.png)
 
 ## Available Scripts
 
