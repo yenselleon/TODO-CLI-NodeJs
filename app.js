@@ -15,7 +15,6 @@ const main = async() =>{
         tareas.crearTareasFromArr(tareasDB);
     }
 
-    await pausar();
 
 
     do{
